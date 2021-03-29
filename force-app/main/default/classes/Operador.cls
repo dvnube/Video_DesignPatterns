@@ -1,0 +1,1 @@
+public enum Operador { SOMA, SUBTRACAO, MULTIPLICACAO, DIVISAO }
